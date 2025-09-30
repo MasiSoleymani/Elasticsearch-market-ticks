@@ -12,13 +12,13 @@ A project that demonstrates how to:
 	•	Ran Elasticsearch & Kibana in Docker
 	•	Verified connection on http://localhost:9200
 	
-2.	Data Exploration
+  2.	Data Exploration
 	
 	•	Listed all indices
 	•	Inspected the market-ticks index with fields:
 	•	timestamp, symbol, bid, ask, last, vol
 	
-3.	Queries & Analytics
+ 3.	  Queries & Analytics
 	
 	•	Filtered by:
 	•	symbol (e.g., AAPL)
@@ -28,7 +28,7 @@ A project that demonstrates how to:
 	•	Average Last Price
 	•	Volume per Minute
 	
-4.	Visualization
+4.	 Visualization
 	
 	•	Plotted:
 	•	Average Last Price per Minute
