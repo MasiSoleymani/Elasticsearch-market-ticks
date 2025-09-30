@@ -1,4 +1,4 @@
-                            Elasticsearch Market Ticks
+                                              **Elasticsearch Market Ticks**
 
 A project that demonstrates how to:
 
